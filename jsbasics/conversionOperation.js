@@ -17,3 +17,12 @@ let isLoggedIn = NaN
 
 let boolIsLoggedIn = Boolean(isLoggedIn);
 console.log(boolIsLoggedIn)
+
+
+//Operations
+let value = 3
+let negValue = - value
+console.log(negValue)
+
+let str = "hello"
+let strr = "world"
